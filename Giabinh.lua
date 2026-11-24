@@ -24,7 +24,7 @@ local CHAT_SERVERS = {
 	"https://miyano.nguyengiabinhtest2011.workers.dev",    -- [2] Server 2 (test2011 / miyano)
 	"https://hirosemiyano.nguyengiabinh20111.workers.dev", -- [3] Server 3 (20111)
 }
-local HUB_BG_ASSET = "rbxassetid://92183842653046"
+local HUB_BG_ASSET = "rbxassetid://97193399004618"
 local CHAT_BG_ASSET = "rbxassetid://115802852640793"
 local CHAT_SERVER_TAG = tostring(game.JobId ~= "" and string.sub(game.JobId, 1, 8) or "Global")
 local ADMIN_ROBLOX_USERNAME = "djia9243"
