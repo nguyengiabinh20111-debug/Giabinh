@@ -20,11 +20,11 @@ end
 
 local DISCORD_LINK = "https://discord.gg/uqhEpzXy9q"
 local CHAT_SERVERS = {
-	"https://hirose.nguyengiabinhp212.workers.dev",        -- [1] Server 1 (p212)
+	"https://hi.nguyengiabinhbot2011.workers.dev",        -- [1] Server 1 (p212)
 	"https://miyano.nguyengiabinhtest2011.workers.dev",    -- [2] Server 2 (test2011 / miyano)
 	"https://hirosemiyano.nguyengiabinh20111.workers.dev", -- [3] Server 3 (20111)
 	"https://kion.bn130189.workers.dev",                   -- [4] Server 4 (Kion)
-	"https://hi.nguyengiabinhbot2011.workers.dev",         -- [5] Server 5 (Hi)
+	"https://hirose.nguyengiabinhp212.workers.dev",         -- [5] Server 5 (Hi)
 }
 local HUB_BG_ASSET = "rbxassetid://115802852640793"
 local CHAT_BG_ASSET = "rbxassetid://115802852640793"
