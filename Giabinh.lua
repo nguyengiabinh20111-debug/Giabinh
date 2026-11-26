@@ -20,7 +20,7 @@ end
 
 local DISCORD_LINK = "https://discord.gg/uqhEpzXy9q"
 local CHAT_SERVERS = {
-	"https://kion.bn130189.workers.dev", -- Chỉ dùng Server 4 để kiểm tra
+	"https://hi.nguyengiabinhbot2011.workers.dev/", -- Chỉ dùng Server 4 để kiểm tra
 }
 local HUB_BG_ASSET = "rbxassetid://115802852640793"
 local CHAT_BG_ASSET = "rbxassetid://115802852640793"
