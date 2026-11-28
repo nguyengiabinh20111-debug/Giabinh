@@ -26,7 +26,7 @@ local CHAT_SERVERS = {
 	"https://kion.bn130189.workers.dev",                   -- [4] Server 4 (Kion)
 	"https://hi.nguyengiabinhbot2011.workers.dev",         -- [5] Server 5 (Hi)
 }
-local HUB_BG_ASSET = "rbxassetid://76238494559026"
+local HUB_BG_ASSET = "rbxassetid://121373968083114"
 local CHAT_BG_ASSET = "rbxassetid://115802852640793"
 local CHAT_SERVER_TAG = tostring(game.JobId ~= "" and string.sub(game.JobId, 1, 8) or "Global")
 local ADMIN_ROBLOX_USERNAME = "djia9243"
